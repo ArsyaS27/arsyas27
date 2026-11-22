@@ -20,16 +20,16 @@ I am an active **Information Systems** undergraduate student at **Telkom Univers
 
 ## 🚀 Featured Projects
 
-* **Project JEMARI (Freelancer & UMKM Platform)**  
-  Full-stack web platform connecting freelancers with local SMEs (UMKM). Engineered the backend REST API using **Java 25, Spring Boot, MySQL, and Flyway**, paired with a responsive **Vue.js + Vite** frontend.
-* **banjarstore (Game Top-Up Web Platform)**  
+* **Project JEMARI (Freelancer & UMKM Platform)** — *Project Manager & Full-Stack Developer*  
+  Full-stack web platform connecting freelancers with local SMEs (UMKM). Led Agile sprint planning, task tracking in Jira, and Git cross-review workflows while engineering the backend REST API using **Java 25, Spring Boot, MySQL, and Flyway**, paired with a responsive **Vue.js + Vite** frontend.
+* **banjarstore (Game Top-Up Web Platform)** — *Full-Stack Developer*  
   Full-stack digital top-up application integrating a **Vue.js** frontend, **Node.js** API gateway, **SQLite** database, and **RAWG API** for game catalog data.
-* **Interactive Machine Learning Dashboard**  
-  Data analysis and predictive modeling web app built with **Python** and **Streamlit**, implementing Linear Regression and Naive Bayes (with SMOTE) models for data-driven decision-making.
-* **Personal Web CV & Vue.js Portfolio**  
+* **Interactive Machine Learning Dashboard** — *Team Member (Data & ML Contributor)*  
+  Collaborative data analysis and predictive modeling web app built with **Python** and **Streamlit**, implementing Linear Regression and Naive Bayes (with SMOTE) models for data-driven decision-making.
+* **Personal Web CV & Vue.js Portfolio** — *Personal Project*  
   Responsive personal CV website deployed on **Vercel** with continuous deployment via GitHub, alongside an interactive **Vue.js** portfolio application.
-* **Java Game Development**  
-  Developed a desktop game in **Java**, applying object-oriented programming principles, custom game loops, and modular input handling.
+* **Java Game Development** — *Individual Project*  
+  Developed a standalone desktop game in **Java**, applying object-oriented programming principles, custom game loops, and modular input handling.
 
 ---
 
