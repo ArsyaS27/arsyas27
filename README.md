@@ -1,11 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Arsya Syuhada 👋
+# Hi there👋
 
-**Information Systems Undergraduate at Telkom University Jakarta**  
 *Software Development • Corporate Strategy • Human Resources Leadership • Visual Direction*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsyasyuhada)
 ![Profile Views](https://komarev.com/ghpvc/?username=ArsyaS27&style=for-the-badge&color=0077B5)
 
 </div>
@@ -14,7 +12,7 @@
 
 ## 💫 About Me
 
-I am an active **Information Systems** undergraduate student at **Telkom University Jakarta** with a multidisciplinary background bridging **software development, business & corporate strategy, human resources leadership, and creative visual direction**. I enjoy building functional web applications and data tools while leading creative and organizational teams to execute structured, high-impact initiatives.
+I am an active **Information Systems** undergraduate student with a multidisciplinary background bridging **software development, business & corporate strategy, human resources leadership, and creative visual direction**. I enjoy building functional web applications and data tools while leading creative and organizational teams to execute structured, high-impact initiatives.
 
 ---
 
@@ -30,24 +28,6 @@ I am an active **Information Systems** undergraduate student at **Telkom Univers
   Responsive personal CV website deployed on **Vercel** with continuous deployment via GitHub, alongside an interactive **Vue.js** portfolio application.
 * **Java Game Development** — *Individual Project*  
   Developed a standalone desktop game in **Java**, applying object-oriented programming principles, custom game loops, and modular input handling.
-
----
-
-## 🏛️ Leadership & Organizational Experience
-
-* **Design Coordinator, Publication & Documentation** — *PKKMB Program Study, Telkom University Jakarta* (`Sep 2026`)
-  * Led the design team in developing visual concepts and creative materials for the event.
-  * Collaborated across committees to align visual outputs with the event's core theme and requirements.
-  * Designed and prepared stage and room layouts/decorations, ensuring timely delivery according to schedule.
-* **Coordinator** — *Lensa Tel-U Jakarta* (`Dec 2024 – Nov 2025`)
-  * Spearheaded and directed the photography team in capturing high-impact visuals for major organizational events.
-  * Delegated coverage tasks and reviewed final visual outputs to maintain consistent quality against creative briefs.
-  * Organized and systematized digital asset management for efficient retrieval and future use.
-* **Staff** — *Inforvation* (`Sep 2025`)
-  * Documented and recorded key event activities to build high-quality visual archives.
-  * Publicized event updates across media channels and produced creative content to support organizational branding.
-
----
 
 ## 💻 Tech Stack
 
